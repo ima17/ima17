@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imantha Sudaraka</h1>
 <h3 align="center">A Mobile and Web Developer & Designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ima17" alt="ima17" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
